@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaywcjlove/reference.git"
+    "url": "/"
   },
   "bugs": {
-    "url": "https://github.com/jaywcjlove/reference/issues"
+    "url": "/"
   },
   "keywords": [],
   "lint-staged": {
