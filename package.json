@@ -2,10 +2,9 @@
   "name": "@wcj/reference",
   "version": "1.47.0",
   "description": "为开发人员分享快速参考备忘单(主要是方便自己)。",
-  "author": "jaywcjlove",
+  "author": "/",
   "license": "MIT",
-  "homepage": "https://jaywcjlove.github.io/reference",
-  "funding": "https://jaywcjlove.github.io/#/sponsor",
+  "homepage": "/",
   "private": false,
   "scripts": {
     "prepare": "husky",
