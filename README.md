@@ -665,13 +665,7 @@ Quick Reference
 
 你还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版，或者直接一键部署到 [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/jaywcjlove/reference)。
 
-## 其它资源
-<!--rehype:wrap-style=text-align: center;max-width: 650px;margin: 0 auto;&class=home-title-reset-->
 
-- [Quick Reference for VSCode](https://marketplace.visualstudio.com/items?itemName=jackiotyu.quick-reference) 由 [jackiotyu](https://github.com/jackiotyu/vscode-quick-reference) 提供
-- [懒猫微服应用商店](https://appstore.lazycat.cloud/#/shop/detail/io.zeroc.app.quickref)
-
-<!--rehype:ignore:start-->
 ## 开发
 
 ```sh
@@ -684,5 +678,5 @@ $ open dist/index.html # 在浏览器打开生成 HTML
 
 ## License
 
-MIT © [Kenny Wong](https://github.com/jaywcjlove)
+
 <!--rehype:ignore:end-->
