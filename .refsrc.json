@@ -11,13 +11,13 @@
     "label": "编辑"
   },
   "github": {
-    "url": "https://github.com/jaywcjlove/reference"
+    "url": "/"
   },
   "favicon": "{{RELATIVE_PATH}}icons/favicon.svg",
   "meta": [
-    { "name": "author", "content": "jaywcjlove" },
+    { "name": "author", "content": "/" },
     { "name": "license", "content": "MIT" },
-    { "name": "funding", "content": "https://jaywcjlove.github.io/#/sponsor" },
+    { "name": "funding", "content": "//#/sponsor" },
     { "rel": "apple-touch-icon", "href": "{{RELATIVE_PATH}}icons/touch-icon-iphone.png" },
     { "rel": "apple-touch-icon", "sizes": "152x152", "href": "{{RELATIVE_PATH}}icons/touch-icon-ipad.png" },
     { "rel": "apple-touch-icon", "sizes": "180x180", "href": "{{RELATIVE_PATH}}icons/touch-icon-iphone.png" },
